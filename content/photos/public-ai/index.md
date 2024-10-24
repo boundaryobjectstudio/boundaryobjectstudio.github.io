@@ -1,7 +1,6 @@
 +++
 image = 'public-ai.jpg'
 date = '2024-10-23T15:45:21+01:00'
-draft = true
 title = 'Public AI White paper'
 type = 'gallery'
 +++

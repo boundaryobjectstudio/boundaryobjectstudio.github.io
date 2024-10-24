@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://boundaryobjectstudio.github.io/'
 languageCode = 'en-us'
 title = 'Boundary Object Studio'
 theme = 'hugo-theme-console'

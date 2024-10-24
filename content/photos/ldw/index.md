@@ -1,7 +1,6 @@
 +++
 image = 'ldw.jpg'
 date = '2024-10-23T15:45:38+01:00'
-draft = true
 title = 'LDW'
 type = "gallery"
 +++

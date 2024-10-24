@@ -1,6 +1,5 @@
 +++
 date = '2024-10-23T15:43:00+01:00'
-draft = true
 title = 'Introducing Boundary Object Studio'
 +++
 
