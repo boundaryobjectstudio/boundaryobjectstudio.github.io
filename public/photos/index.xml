@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Photos on Boundary Object Studio</title>
-    <link>https://boundaryobjectstudio.github.io/photos/</link>
+    <link>http://localhost:1313/photos/</link>
     <description>Recent content in Photos on Boundary Object Studio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 23 Oct 2024 15:45:38 +0100</lastBuildDate>
-    <atom:link href="https://boundaryobjectstudio.github.io/photos/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/photos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LDW</title>
-      <link>https://boundaryobjectstudio.github.io/photos/ldw/</link>
+      <link>http://localhost:1313/photos/ldw/</link>
       <pubDate>Wed, 23 Oct 2024 15:45:38 +0100</pubDate>
-      <guid>https://boundaryobjectstudio.github.io/photos/ldw/</guid>
+      <guid>http://localhost:1313/photos/ldw/</guid>
       <description>&lt;p&gt;## London Data Week&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Author:&lt;/strong&gt; Jen Ding&lt;/p&gt;&#xA;&lt;p&gt;After a successful London Data Week (LDW) 2023 and 2024, through a partnership with the GLA, LOTI, the Turing Institute, and more,  Jen will build up the LDW team of volunteers to further amplify the London data community for LDW25.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Public AI White paper</title>
-      <link>https://boundaryobjectstudio.github.io/photos/public-ai/</link>
+      <link>http://localhost:1313/photos/public-ai/</link>
       <pubDate>Wed, 23 Oct 2024 15:45:21 +0100</pubDate>
-      <guid>https://boundaryobjectstudio.github.io/photos/public-ai/</guid>
+      <guid>http://localhost:1313/photos/public-ai/</guid>
       <description>&lt;h2 id=&#34;contributing-to-a-vision-of-public-ai&#34;&gt;Contributing to a vision of Public AI&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Author:&lt;/strong&gt; Flynn Devine&lt;/p&gt;&#xA;&lt;p&gt;A collaboration with partners from Metagov and Chatham House to articulate a vision for Public AI in the 2024 white paper: &lt;a href=&#34;https://zenodo.org/records/13914560&#34;&gt;&amp;ldquo;Public AI: Infrastructure for the Common Good&amp;rdquo;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>

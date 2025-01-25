@@ -1,5 +1,5 @@
 +++
-date = '2024-10-23T15:43:00+01:00'
+date = '2024-12-01T15:43:00+01:00'
 title = 'Introducing Boundary Object Studio'
 +++
 

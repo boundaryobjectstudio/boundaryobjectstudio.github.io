@@ -1,0 +1,47 @@
+{{ define "main" }}
+
+<h1>About</h1>
+
+<p>
+A studio for incubating new ideas and initiatives for a future with AI that benefits more people. <a href="about/">(learn more)</a>
+</p>
+<br/>
+
+<h1>Latest posts</h1>
+
+<div class="posts-list">
+{{ with .Site.GetPage "/posts" }}
+    {{ range first 3 (sort .Data.Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
+        <div class="post">
+            <p>
+                <div class="date">{{ .PublishDate.Format "Jan. 2, 2006" }}</div>
+                <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
+                {{ .Summary }}
+            </p>
+        </div>    
+    {{ end }}
+{{ end }}
+</div>
+
+<p><a href="posts/">(see more posts)</a></p>
+
+<h1>Latest projects</h1>
+
+<div class="image-grid">
+{{ with .Site.GetPage "/projects" }}
+    {{ range first 3 (sort .Data.Pages "Date" "desc")}}
+        <a href="{{ .Permalink }}" title="{{ .Title }}">
+        {{ $image := .Page.Resources.GetMatch .Params.image }}
+        {{ with $image }}
+            {{ $thumb := .Resize "500x" }}
+            <img src="{{ $thumb.RelPermalink }}" alt="{{ .Title }}" class="img-responsive">
+        {{end}}
+        </a>
+    {{ end }}
+{{ end }}
+</div>
+
+<p></p>
+<p><a href="projects/">(see more projects)</a></p>
+
+{{ end }}

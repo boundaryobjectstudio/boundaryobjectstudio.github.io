@@ -2,25 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Boundary Object Studio</title>
-    <link>http://localhost:1313/projects/</link>
+    <link>https://boundaryobjectstudio.github.io/projects/</link>
     <description>Recent content in Projects on Boundary Object Studio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Oct 2024 15:45:38 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Dec 2024 15:23:40 +0000</lastBuildDate>
+    <atom:link href="https://boundaryobjectstudio.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>LDW</title>
-      <link>http://localhost:1313/projects/ldw/</link>
-      <pubDate>Wed, 23 Oct 2024 15:45:38 +0100</pubDate>
-      <guid>http://localhost:1313/projects/ldw/</guid>
-      <description>&lt;p&gt;## London Data Week&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Author:&lt;/strong&gt; Jen Ding&lt;/p&gt;&#xA;&lt;p&gt;After a successful London Data Week (LDW) 2023 and 2024, through a partnership with the GLA, LOTI, the Turing Institute, and more,  Jen will build up the LDW team of volunteers to further amplify the London data community for LDW25.&lt;/p&gt;</description>
+      <title>Toward Democracy Levels for AI</title>
+      <link>https://boundaryobjectstudio.github.io/projects/neurips_flynn/</link>
+      <pubDate>Sun, 15 Dec 2024 15:23:40 +0000</pubDate>
+      <guid>https://boundaryobjectstudio.github.io/projects/neurips_flynn/</guid>
+      <description>&lt;h2 id=&#34;toward-democracy-levels-for-ai&#34;&gt;Toward Democracy Levels for AI&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Author:&lt;/strong&gt; Flynn Devine&lt;/p&gt;&#xA;&lt;p&gt;As part of the Pluralistic Alignment workshop at NeurIPS 2024, a&#xA;&lt;a href=&#34;https://arxiv.org/abs/2411.09222&#34;&gt;paper proposing a &amp;ldquo;Democracy Levels&amp;rdquo; framework &lt;/a&gt;&#xA;for evaluating the degree to which decisions in a given domain are made democratically.&#xA;The framework can be used (i) to define milestones in a roadmap for the democratic AI, pluralistic AI,&#xA;and public AI ecosystems, (ii) to guide organizations that need to increase the legitimacy of their&#xA;decisions on difficult AI governance questions, and (iii) as a rubric by those aiming to&#xA;evaluate AI organizations and keep them accountable.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Voice, Your Voice, Our Voice: Attitudes Towards Collective Governance of a Choral AI Dataset</title>
+      <link>https://boundaryobjectstudio.github.io/projects/neurips_jen/</link>
+      <pubDate>Sat, 14 Dec 2024 15:23:40 +0000</pubDate>
+      <guid>https://boundaryobjectstudio.github.io/projects/neurips_jen/</guid>
+      <description>&lt;h2 id=&#34;my-voice-your-voice-our-voice-attitudes-towards-collective-governance-of-a-choral-ai-dataset&#34;&gt;My Voice, Your Voice, Our Voice: Attitudes Towards Collective Governance of a Choral AI Dataset&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Author:&lt;/strong&gt; Jen Ding&lt;/p&gt;&#xA;&lt;p&gt;As part of the Creativity &amp;amp; AI Workshop at NeurIPS 2024, a&#xA;&lt;a href=&#34;https://arxiv.org/abs/2412.01433&#34;&gt;paper on the Choral Data Trust Experiment&lt;/a&gt;&#xA;as part of the Holly Herndon at Mat Dryhurst exhibition at Serpentine,&#xA;&lt;a href=&#34;https://www.serpentinegalleries.org/whats-on/holly-herndon-mat-dryhurst-the-call/&#34;&gt;&amp;ldquo;The Call&amp;rdquo;&lt;/a&gt; (2024-2025).&lt;/p&gt;&#xA;&lt;p&gt;The paper explores the opportunity to expand collective governance opportunities for datasets beyond&#xA;individual opt in/out to enable a more empowering future for creatives in the generative AI ecosystem.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Public AI White paper</title>
-      <link>http://localhost:1313/projects/public-ai/</link>
-      <pubDate>Wed, 23 Oct 2024 15:45:21 +0100</pubDate>
-      <guid>http://localhost:1313/projects/public-ai/</guid>
-      <description>&lt;h2 id=&#34;contributing-to-a-vision-of-public-ai&#34;&gt;Contributing to a vision of Public AI&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Author:&lt;/strong&gt; Flynn Devine&lt;/p&gt;&#xA;&lt;p&gt;A collaboration with partners from Metagov and Chatham House to articulate a vision for Public AI in the 2024 white paper: &lt;a href=&#34;https://zenodo.org/records/13914560&#34;&gt;&amp;ldquo;Public AI: Infrastructure for the Common Good&amp;rdquo;&lt;/a&gt;&lt;/p&gt;</description>
+      <link>https://boundaryobjectstudio.github.io/projects/public-ai/</link>
+      <pubDate>Sat, 23 Nov 2024 15:45:21 +0100</pubDate>
+      <guid>https://boundaryobjectstudio.github.io/projects/public-ai/</guid>
+      <description>&lt;h2 id=&#34;contributing-to-a-vision-of-public-ai&#34;&gt;Contributing to a vision of Public AI&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Author:&lt;/strong&gt; Flynn Devine&lt;/p&gt;&#xA;&lt;p&gt;A collaboration with partners from Metagov and Chatham House to articulate a vision for&#xA;Public AI in the 2024 white paper: &lt;a href=&#34;https://zenodo.org/records/13914560&#34;&gt;&amp;ldquo;Public AI: Infrastructure for the Common Good&amp;rdquo;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>London Data Week</title>
+      <link>https://boundaryobjectstudio.github.io/projects/ldw/</link>
+      <pubDate>Wed, 23 Oct 2024 15:45:38 +0100</pubDate>
+      <guid>https://boundaryobjectstudio.github.io/projects/ldw/</guid>
+      <description>&lt;h2 id=&#34;london-data-week-2025&#34;&gt;London Data Week 2025&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Author:&lt;/strong&gt; Jen Ding&lt;/p&gt;&#xA;&lt;p&gt;After a successful &lt;a href=&#34;https://londondataweek.org/&#34;&gt;London Data Week&lt;/a&gt; (LDW) 2023 and 2024, through a partnership with&#xA;the GLA, LOTI, the Turing Institute, and more,  Jen will build up a team of volunteers to further&#xA;amplify the London data community for LDW25.&lt;/p&gt;&#xA;&lt;p&gt;The Call for Applications will open in March 2025, but until then, please fill out this&#xA;&lt;a href=&#34;https://www.smartsurvey.co.uk/s/78CI12/&#34;&gt;Expression of Interest form&lt;/a&gt; to share your interest.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
